@@ -42,6 +42,11 @@ Installation
 	Ctrl-Alt-Shift-Up     |  Move Window to Top and Stretch
 	Ctrl-Alt-Up           |  Move Window to Top
 
+Usage
+-----
+
+All movements are based on the current display that the window is in (specifically, the top-left corner of the window).  This is by design.  To move to another screen, simply fling the window with the mouse so that the top-left corner is on the desired display, then use the appropriate shortcut key for its pixel-perfect destination.
+
 Known Issues
 ------------
 
