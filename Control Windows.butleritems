@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Children</key>
+	<array>
+		<dict>
+			<key>Additional Settings</key>
+			<dict>
+				<key>Viewer</key>
+				<string>__AppleScript_File</string>
+			</dict>
+			<key>Hot Key</key>
+			<dict>
+				<key>Code</key>
+				<integer>125</integer>
+				<key>Key</key>
+				<string>⇧^⌥⇣</string>
+				<key>Modifiers</key>
+				<integer>11403555</integer>
+			</dict>
+			<key>Path</key>
+			<string>~/Library/Scripts/Window Management/Move Window to Bottom and Stretch.applescript</string>
+			<key>Title</key>
+			<string>Move Window to Bottom and Stretch</string>
+			<key>Type</key>
+			<string>File/URL</string>
+		</dict>
+		<dict>
+			<key>Additional Settings</key>
+			<dict>
+				<key>Viewer</key>
+				<string>__AppleScript_File</string>
+			</dict>
+			<key>Hot Key</key>
+			<dict>
+				<key>Code</key>
+				<integer>125</integer>
+				<key>Key</key>
+				<string>^⌥⇣</string>
+				<key>Modifiers</key>
+				<integer>11272481</integer>
+			</dict>
+			<key>Path</key>
+			<string>~/Library/Scripts/Window Management/Move Window to Bottom.applescript</string>
+			<key>Title</key>
+			<string>Move Window to Bottom</string>
+			<key>Type</key>
+			<string>File/URL</string>
+		</dict>
+		<dict>
+			<key>Additional Settings</key>
+			<dict>
+				<key>Viewer</key>
+				<string>__AppleScript_File</string>
+			</dict>
+			<key>Hot Key</key>
+			<dict>
+				<key>Code</key>
+				<integer>123</integer>
+				<key>Key</key>
+				<string>⇧^⌥⇠</string>
+				<key>Modifiers</key>
+				<integer>11403555</integer>
+			</dict>
+			<key>Path</key>
+			<string>~/Library/Scripts/Window Management/Move Window to Left Side and Stretch.applescript</string>
+			<key>Title</key>
+			<string>Move Window to Left Side and Stretch</string>
+			<key>Type</key>
+			<string>File/URL</string>
+		</dict>
+		<dict>
+			<key>Additional Settings</key>
+			<dict>
+				<key>Viewer</key>
+				<string>__AppleScript_File</string>
+			</dict>
+			<key>Hot Key</key>
+			<dict>
+				<key>Code</key>
+				<integer>123</integer>
+				<key>Key</key>
+				<string>^⌥⇠</string>
+				<key>Modifiers</key>
+				<integer>11272481</integer>
+			</dict>
+			<key>Path</key>
+			<string>~/Library/Scripts/Window Management/Move Window to Left Side.applescript</string>
+			<key>Title</key>
+			<string>Move Window to Left Side</string>
+			<key>Type</key>
+			<string>File/URL</string>
+		</dict>
+		<dict>
+			<key>Additional Settings</key>
+			<dict>
+				<key>Viewer</key>
+				<string>__AppleScript_File</string>
+			</dict>
+			<key>Hot Key</key>
+			<dict>
+				<key>Code</key>
+				<integer>124</integer>
+				<key>Key</key>
+				<string>⇧^⌥⇢</string>
+				<key>Modifiers</key>
+				<integer>11403555</integer>
+			</dict>
+			<key>Path</key>
+			<string>~/Library/Scripts/Window Management/Move Window to Right Side and Stretch.applescript</string>
+			<key>Title</key>
+			<string>Move Window to Right Side and Stretch</string>
+			<key>Type</key>
+			<string>File/URL</string>
+		</dict>
+		<dict>
+			<key>Additional Settings</key>
+			<dict>
+				<key>Viewer</key>
+				<string>__AppleScript_File</string>
+			</dict>
+			<key>Hot Key</key>
+			<dict>
+				<key>Code</key>
+				<integer>124</integer>
+				<key>Key</key>
+				<string>^⌥⇢</string>
+				<key>Modifiers</key>
+				<integer>11272481</integer>
+			</dict>
+			<key>Path</key>
+			<string>~/Library/Scripts/Window Management/Move Window to Right Side.applescript</string>
+			<key>Title</key>
+			<string>Move Window to Right Side</string>
+			<key>Type</key>
+			<string>File/URL</string>
+		</dict>
+		<dict>
+			<key>Additional Settings</key>
+			<dict>
+				<key>Viewer</key>
+				<string>__AppleScript_File</string>
+			</dict>
+			<key>Hot Key</key>
+			<dict>
+				<key>Code</key>
+				<integer>126</integer>
+				<key>Key</key>
+				<string>⇧^⌥⇡</string>
+				<key>Modifiers</key>
+				<integer>11403555</integer>
+			</dict>
+			<key>Path</key>
+			<string>~/Library/Scripts/Window Management/Move Window to Top and Stretch.applescript</string>
+			<key>Title</key>
+			<string>Move Window to Top and Stretch</string>
+			<key>Type</key>
+			<string>File/URL</string>
+		</dict>
+		<dict>
+			<key>Additional Settings</key>
+			<dict>
+				<key>Viewer</key>
+				<string>__AppleScript_File</string>
+			</dict>
+			<key>Hot Key</key>
+			<dict>
+				<key>Code</key>
+				<integer>126</integer>
+				<key>Key</key>
+				<string>^⌥⇡</string>
+				<key>Modifiers</key>
+				<integer>11272481</integer>
+			</dict>
+			<key>Path</key>
+			<string>~/Library/Scripts/Window Management/Move Window to Top.applescript</string>
+			<key>Title</key>
+			<string>Move Window to Top</string>
+			<key>Type</key>
+			<string>File/URL</string>
+		</dict>
+	</array>
+	<key>Launch Group</key>
+	<false/>
+	<key>PM Resource ID</key>
+	<dict>
+		<key>Root</key>
+		<false/>
+		<key>Type</key>
+		<string>Butler Configuration Items</string>
+		<key>Version</key>
+		<real>1</real>
+	</dict>
+	<key>Title</key>
+	<string>Control Windows</string>
+	<key>Type</key>
+	<string>Container</string>
+</dict>
+</plist>
